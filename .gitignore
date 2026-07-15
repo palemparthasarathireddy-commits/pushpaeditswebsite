@@ -1,0 +1,5 @@
+.vercel
+new videos/
+optimized_videos/
+extracted_videos/
+*.backup.html
